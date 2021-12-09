@@ -1,0 +1,105 @@
+.abc:hover{
+	background: red;
+	cursor: pointer;
+	transform: ;
+	transition: ;
+	font-size: ; 
+}
+.header-img{
+	text-align: center;
+}
+.header-text p{
+	text-align: right;
+	color: black;	
+}
+.header-text{
+	text-decoration: none;
+}
+.show_text marquee{
+	color: white;
+	background-color: black;
+	padding-top: 0.3em;
+	padding-bottom: 0.15em;
+	cursor: pointer;
+}
+.ab:hover{
+	background: red;
+	cursor: pointer;
+}
+.dropdown-menu li a:hover{
+	background: black;
+	cursor: pointer;
+	color: white;
+}
+.f1 h3{
+	
+	text-align: center;
+	
+	color: white;
+}
+.container h3{
+	text-decoration-line: underline;
+	text-align: center;
+}
+.f2{	
+	color: white;
+}
+.f2 h3{
+	text-decoration-line: underline;
+	text-align: center;
+}
+
+.f3 h3{
+	text-decoration-line: underline;
+	
+	
+	color: white;
+}
+.row{
+	border: 2px red;
+}
+
+.z:hover{
+	background: red;
+	cursor: pointer;
+	transform: ;
+	transition: ;
+	font-size: ; 
+	color: white;
+}
+.f3 a:hover{
+	text-decoration: none;
+	background: red;
+	color: white;
+	cursor: pointer;
+	transform: ;
+	transition: ;
+	font-size: ;
+}
+.f3{
+	
+	color: white;
+}
+.xyz{
+	background-color: #212121;
+}
+p{
+	text-align: justify;
+	padding-right: 1em;
+}
+.icon i{
+	padding-left: 15px;
+}
+.container{
+	margin-top: 10px;
+}
+.h{
+	outline: red;
+}
+.pic {
+	margin-left: 65px;
+}
+.show_text marquee{
+	background-color: white;
+	color: black;
+}
